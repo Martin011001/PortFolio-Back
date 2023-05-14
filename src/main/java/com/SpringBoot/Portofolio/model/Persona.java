@@ -21,6 +21,8 @@ public class Persona {
     private String trabajoActual;
     private String estudio;
     private String empresa;
+    private String imgEstudio;
+    private String imgEmpresa;
     private String ubicacion;
     private String telefono;
     private String email;
